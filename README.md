@@ -1,4 +1,4 @@
 UBC-Required-Courses
 ====================
 
-Medium fidelity prototype of an interface to help UBC students register for courses
+An interface that helps students register for courses by displaying required courses in easy access format.
